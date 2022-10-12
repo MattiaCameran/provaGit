@@ -32,5 +32,11 @@ public class Main {
 
 //Al momento ho lavorato in locale, ora voglio salvare su GitHub.
 
-//Per salvare su GitHub vado su Team -> Push (ho già salvato nome utente e password).
+
+//Prima di fare ciò però devo creare il repository su Github, per farlo apro il profilo e clicco su New o sul +.
+//NON AGGIUNGERE NESSUNO DEI FILE DELLE CASELLINE IN BASSO.
+//Creato il repository, Github ci fornisce l'indirizzo web del repository, che possiamo copiare.
+//Per salvare su GitHub vado su Team -> Push (ho già salvato URI nome utente e password, ma se così non fosse dovremmo compilare con l'indirizzo appena copiato).
+//Va notato che la password non è la pw di Github ma è la personal access token.
+//Quando faccio il push devo spuntare la casellina "configura per push and pull".
 //Dopo il primo Push (che di solito avrà il nome "origin"), io quando faccio nuovi Commit posso scegliere di fare "Commit and Push", facendo insieme le operazioni.
